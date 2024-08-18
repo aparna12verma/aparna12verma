@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aparna Verma</h1>
 <h3 align="center">Tech Enthusiast & Developer</h3>
 
-- 🔭 I’m currently working on [Text Data Analysis](Downloads/Text Data Analysis)
+- 🔭 I’m currently working in cognizant as a software developer
 
 - 🌱 I’m currently learning **AWS , Data Analysis**
 
